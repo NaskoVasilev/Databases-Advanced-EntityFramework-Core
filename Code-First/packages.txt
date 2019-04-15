@@ -1,0 +1,8 @@
+install-package Microsoft.EntityFrameWorkCore
+install-package Microsoft.EntityFrameWorkCore.Design
+install-package Microsoft.EntityFrameWorkCore.SqlServer
+install-package Microsoft.EntityFrameWorkCore.Tools
+install-package AutoMapper
+install-package Newtonsoft.Json
+install-package Microsoft.Extensions.Logging
+install-package Microsoft.Extensions.Logging.Console
