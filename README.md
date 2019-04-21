@@ -26,3 +26,5 @@ This repository contains projects and solutions from "Databases Advanced - Entit
   12. BEST PRACTICES AND ARCHITECTURE - DESIGN PATTERNS
   
   Final Exam - 07.04.2019 - 100/100 points
+  
+  Retake Exam - 18.04.2019 - 100/100 points
